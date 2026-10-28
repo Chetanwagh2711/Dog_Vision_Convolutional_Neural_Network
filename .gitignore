@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+*.zip
+*.tar.gz
+train/
+test/
+*.csv
